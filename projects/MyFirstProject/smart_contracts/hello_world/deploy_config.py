@@ -34,3 +34,8 @@ def deploy(
         f"Called hello on {app_spec.contract.name} ({app_client.app_id}) "
         f"with name={name}, received: {response.return_value}"
     )
+
+    # pseudocode: wait for deployment confirmation
+    # pseudocode: call smart contracts to return greeting in box
+    # pseudocode: show greeting in a response log
+)
