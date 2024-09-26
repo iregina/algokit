@@ -38,4 +38,4 @@ def deploy(
     # pseudocode: wait for deployment confirmation
     # pseudocode: call smart contracts to return greeting in box
     # pseudocode: show greeting in a response log
-)
+
